@@ -1,3 +1,4 @@
 slackbot==0.5.1
 pytz==2018.4
 tzlocal==1.5.1
+tbapy==1.3.0
